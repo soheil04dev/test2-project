@@ -10,3 +10,7 @@ body {
   align-items: center;
   background-color: aqua;
 }
+body ul {
+  list-style-type: none;
+  color: red;
+}
